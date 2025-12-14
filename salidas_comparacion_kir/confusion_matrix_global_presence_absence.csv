@@ -1,0 +1,5 @@
+truth,pred,n
+Absent,Absent,109
+Absent,Present,43
+Present,Absent,21
+Present,Present,307
