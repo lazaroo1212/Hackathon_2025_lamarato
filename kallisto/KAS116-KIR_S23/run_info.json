@@ -1,0 +1,13 @@
+{
+	"n_targets": 1583,
+	"n_bootstraps": 0,
+	"n_processed": 136421,
+	"n_pseudoaligned": 48725,
+	"n_unique": 1911,
+	"p_pseudoaligned": 35.7,
+	"p_unique": 1.4,
+	"kallisto_version": "0.48.0",
+	"index_version": 10,
+	"start_time": "Sat Dec 13 21:13:12 2025",
+	"call": "kallisto quant -i db/kir/kir_index.idx -o results/kallisto/KAS116-KIR_S23 data_controls/data_controls_fq/KAS116-KIR_S23_L001_R1_001.fastq.gz data_controls/data_controls_fq/KAS116-KIR_S23_L001_R2_001.fastq.gz"
+}

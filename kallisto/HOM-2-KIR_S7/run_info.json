@@ -1,0 +1,13 @@
+{
+	"n_targets": 1583,
+	"n_bootstraps": 0,
+	"n_processed": 274929,
+	"n_pseudoaligned": 98557,
+	"n_unique": 2297,
+	"p_pseudoaligned": 35.8,
+	"p_unique": 0.8,
+	"kallisto_version": "0.48.0",
+	"index_version": 10,
+	"start_time": "Sat Dec 13 21:12:40 2025",
+	"call": "kallisto quant -i db/kir/kir_index.idx -o results/kallisto/HOM-2-KIR_S7 data_controls/data_controls_fq/HOM-2-KIR_S7_L001_R1_001.fastq.gz data_controls/data_controls_fq/HOM-2-KIR_S7_L001_R2_001.fastq.gz"
+}

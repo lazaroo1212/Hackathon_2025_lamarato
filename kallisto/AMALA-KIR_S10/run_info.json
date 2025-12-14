@@ -1,0 +1,13 @@
+{
+	"n_targets": 1583,
+	"n_bootstraps": 0,
+	"n_processed": 205262,
+	"n_pseudoaligned": 69243,
+	"n_unique": 1520,
+	"p_pseudoaligned": 33.7,
+	"p_unique": 0.7,
+	"kallisto_version": "0.48.0",
+	"index_version": 10,
+	"start_time": "Sat Dec 13 21:10:50 2025",
+	"call": "kallisto quant -i db/kir/kir_index.idx -o results/kallisto/AMALA-KIR_S10 data_controls/data_controls_fq/AMALA-KIR_S10_L001_R1_001.fastq.gz data_controls/data_controls_fq/AMALA-KIR_S10_L001_R2_001.fastq.gz"
+}

@@ -1,0 +1,13 @@
+{
+	"n_targets": 1583,
+	"n_bootstraps": 0,
+	"n_processed": 26120,
+	"n_pseudoaligned": 8904,
+	"n_unique": 253,
+	"p_pseudoaligned": 34.1,
+	"p_unique": 1.0,
+	"kallisto_version": "0.48.0",
+	"index_version": 10,
+	"start_time": "Sat Dec 13 21:11:34 2025",
+	"call": "kallisto quant -i db/kir/kir_index.idx -o results/kallisto/CALOGERO-KIR_S24 data_controls/data_controls_fq/CALOGERO-KIR_S24_L001_R1_001.fastq.gz data_controls/data_controls_fq/CALOGERO-KIR_S24_L001_R2_001.fastq.gz"
+}
